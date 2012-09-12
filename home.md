@@ -1,2 +1,2 @@
 * [[Status Bar]]
-* [[Local Push Notifications]]
+* [[Local Notifications]]
