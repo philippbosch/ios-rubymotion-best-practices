@@ -1,4 +1,4 @@
-# Example
+## Example
 
 ```ruby
 class AppDelegate
@@ -19,6 +19,6 @@ class AppDelegate
 end
 ```
 
-# Links
+## Links
 
 * [iOS Developer Library: Scheduling, Registering, and Handling Notifications](http://developer.apple.com/library/ios/#documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/IPhoneOSClientImp/IPhoneOSClientImp.html#//apple_ref/doc/uid/TP40008194-CH103-SW1)
